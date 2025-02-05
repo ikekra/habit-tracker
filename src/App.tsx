@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { Plus, Check, X, Trophy, Calendar, Trash2 } from 'lucide-react';
-
 interface Habit {
   id: string;
   name: string;
