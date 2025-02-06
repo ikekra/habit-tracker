@@ -3,6 +3,7 @@
 ## Introduction
 
   The Habit Tracker Web Page is a simple and interactive tool designed to help users track their daily habits and maintain consistency in achieving their goals. It provides a clean user interface for adding, updating, and monitoring habits.
+  
 
 ### Features
 
