@@ -157,6 +157,7 @@ function App() {
             ))}
           </div>
 
+          
           {habits.length === 0 && (
             <div className="text-center text-gray-500 py-8">
               No habits added yet. Start by adding a new habit above!
