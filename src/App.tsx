@@ -6,10 +6,6 @@ interface Habit {
   dates: Record<string, boolean>;
   createdAt: string;
 }
-
-
-
-
 function App() {
   const [habits, setHabits] = useState<Habit[]>(() => {
     const saved = localStorage.getItem('habits');
